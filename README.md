@@ -3,9 +3,9 @@
 A simple to-do list app built with HTML, CSS, and JavaScript.
 
 
-
 ## Preview
 
+<img width="570" height="352" alt="Screenshot 2026-11-27 050749" src="https://github.com/user-attachments/assets/2c762f2d-4696-4834-af8d-f71e13edcd5c" />
 
 
 ## Features
